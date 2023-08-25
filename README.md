@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnshuExodus
 - 👀 I’m interested in - Data and Business Analysis, Product Management, Sustainability and Marketing
-- 🌱 I’m currently learning - Digital Transformation at ESCP Business School, Paris
+- 🌱 I’m currently learning - Program Management @ Paytm
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me - anshuman.mishra@edu.escp.eu
